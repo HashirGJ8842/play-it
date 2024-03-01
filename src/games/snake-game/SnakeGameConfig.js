@@ -8,7 +8,7 @@ const constants = {
   startingPoint : snakeStartingPoint,
   mapType : "EmptyMap",
   snakeInitialDirection : "right",
-  frequency: 10,
+  frequency: 100,
 };
 
 export default constants;
